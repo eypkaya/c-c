@@ -1,4 +1,4 @@
-#include <fcntl.h>
+#include <fcntl.h>      //sürecin kullanıcı ve grup bilgilerini belirler
 #include <unistd.h>
 #include <stdio.h>
 #include <sys/stat.h>
